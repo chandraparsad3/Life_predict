@@ -64,7 +64,7 @@ To reproduce the analysis and results:
 ## Dependencies
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (install using `pip install -r requirements.txt`)
+- Required Python packages
 
 ## Author
 [Chandraparsad]('https://github.com/chandraparsad3')
