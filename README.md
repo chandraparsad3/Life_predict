@@ -51,12 +51,7 @@ To reproduce the analysis and results:
    ```bash
    git clone https://github.com/your-username/life-expectancy-prediction.git
    ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook:
+2. Run the Jupyter notebook:
 
    ```bash
    jupyter notebook
